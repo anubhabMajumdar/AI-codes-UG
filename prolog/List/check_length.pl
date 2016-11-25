@@ -1,0 +1,1 @@
+check_length(X1, X2) :- list_length(X1, L), list_length(X2, L).
